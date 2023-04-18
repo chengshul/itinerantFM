@@ -16,4 +16,4 @@ In ED, we calculate the ground state energy in the singlet and triplet sectors. 
 
 ## data
 In each case, DMRG data for energy and total spin are saved in `data/` folder.
-The scripts `plot*.py` parse and plot the data of the given system size, particlenumber, etc. The scripts `plot_all.py` summarize and plot all data.
+The scripts `plot*.py` parse and plot the data of the given system size, particle number, etc. The scripts `plot_all.py` summarize and plot all data.
