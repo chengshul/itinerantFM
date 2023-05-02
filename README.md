@@ -1,4 +1,4 @@
-# iter_FM
+# itinerantFM
 Exact diagonalization (ED) and density-matrix renormalization group (DMRG) calculations of itinerant ferromagnetism in three systems.
 
 ## square_tri
