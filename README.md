@@ -1,5 +1,5 @@
 # itinerantFM
-Exact diagonalization (ED) and density-matrix renormalization group (DMRG) calculations of itinerant ferromagnetism in three systems.
+Exact diagonalization (ED) and density-matrix renormalization group (DMRG) calculations of itinerant ferromagnetism in three systems, arXiv:2305.01682.
 
 ## square_tri
 The Hubbard model on the square lattice with unidirectional next-nearest-neighbor hopping, interpolating between the square lattice and the triagular lattice.
